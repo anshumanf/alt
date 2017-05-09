@@ -1,6 +1,6 @@
 {
   "name": "@anshumanf/alt",
-  "version": "0.18.9",
+  "version": "0.18.10",
   "description": "A flux implementation",
   "main": "lib",
   "module": "modules",
